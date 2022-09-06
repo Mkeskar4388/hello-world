@@ -5,7 +5,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-<h1>Hello World>
+<h1>Hello World
   <p>By Mihir Keskar</p>
   </body>
     </html>
